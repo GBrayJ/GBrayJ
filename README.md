@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GBrayJ! :)
-- 👀 I’m interested in animals, and lots of different programming laungages. 
-- 🌱 I’m currently learning javascript, C# and python.
-- 📫 How to reach me add me on Discord. :) GBrayJ#7473
+- 👀 I'm a junior dev.
+- 🌱 I specialize in Javascript, and make web apps with Vue.JS
+- 📫 How to reach me add me on Discord - GBrayJ#7473
