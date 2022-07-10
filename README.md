@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @GBrayJ! :)
-- 👀 I'm a junior dev.
-- 🌱 I specialize in Javascript, and make web apps with Vue.JS
-- 📫 How to reach me add me on Discord - GBrayJ#7473
+
